@@ -1,40 +1,40 @@
 **Introduction to AWS (Amazon Web Services)**
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally. 
 
-Key Concepts of AWS
-1. #Cloud Computing
-   - Definition: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS.
+**Key Concepts of AWS**
+**1. Cloud Computing**
+    Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS.
 
-#2. #Regions and Availability Zones:
-   - Regions: AWS has data centers in multiple locations worldwide. These locations are called Regions. Each Region is a separate geographic area.
-   - Availability Zones (AZs): Each Region has multiple, isolated locations known as Availability Zones. Each Availability Zone is physically separated from the others in the Region to ensure high availability and fault tolerance.
+**2. Regions and Availability Zones:**
+  **- Regions:** AWS has data centers in multiple locations worldwide. These locations are called Regions. Each Region is a separate geographic area.
+   **- Availability Zones (AZs):** Each Region has multiple, isolated locations known as Availability Zones. Each Availability Zone is physically separated from the others in the Region to ensure high availability and fault tolerance.
 
-#3. #AWS Global Infrastructure:
+**3. AWS Global Infrastructure:**
    - AWS operates globally with data centers located in major regions, providing high availability, reliability, and scalability.
 
-###Core Services
+**Core Services**
 
-#1. #Compute:
-   - Amazon EC2 (Elastic Compute Cloud): Virtual servers in the cloud.
-   - AWS Lambda: Run code without provisioning or managing servers.
-   - Elastic Beanstalk: An easy-to-use service for deploying and scaling web applications and services.
+**1. Compute:**
+   - **Amazon EC2 (Elastic Compute Cloud):** Virtual servers in the cloud.
+   - **AWS Lambda:** Run code without provisioning or managing servers.
+   - **Elastic Beanstalk:** An easy-to-use service for deploying and scaling web applications and services.
 
-2. Storage:
-   - Amazon S3 (Simple Storage Service): Scalable storage in the cloud.
-   - Amazon EBS (Elastic Block Store: Block storage for use with EC2.
-   - Amazon Glacier: Low-cost cloud storage service for data archiving and long-term backup.
+**3. Storage:**
+   **- Amazon S3 (Simple Storage Service):** Scalable storage in the cloud.
+   **- Amazon EBS (Elastic Block Store:** Block storage for use with EC2.
+   **- Amazon Glacier:** Low-cost cloud storage service for data archiving and long-term backup.
 
-3. Database:
+4. Database:
    - Amazon RDS (Relational Database Service): Managed relational database service for databases like MySQL, PostgreSQL, and Oracle.
    - Amazon DynamoDB: A fast and flexible NoSQL database service.
    - Amazon Redshift: Data warehousing service for big data analytics.
 
-4. Networking:
+5. Networking:
    - Amazon VPC (Virtual Private Cloud): Provision a logically isolated section of the AWS cloud.
    - Amazon CloudFront: Content delivery network (CDN) service.
    - Elastic Load Balancing (ELB): Distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.
 
-5. Security, Identity, and Compliance:
+6. Security, Identity, and Compliance:
    - AWS IAM (Identity and Access Management): Manage access to AWS services and resources securely.
    - AWS KMS (Key Management Service): Create and control the encryption keys used to encrypt your data.
 
