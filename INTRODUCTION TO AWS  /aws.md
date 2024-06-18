@@ -2,7 +2,7 @@
 <h1>Introduction to AWS (Amazon Web Services)</h1>
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally. 
 
-<h3>Key Concepts of AWS</h3>
+<h2>Key Concepts of AWS</h2>
 
 **1. Cloud Computing**
     Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS.
@@ -14,9 +14,9 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 **3. AWS Global Infrastructure:**
    - AWS operates globally with data centers located in major regions, providing high availability, reliability, and scalability.
 
-**Core Services**
+<h2>Core Services<h2>
 
-**1. Compute:**
+<h3>1. Compute:<h3>
    - **Amazon EC2 (Elastic Compute Cloud):** Virtual servers in the cloud.
    - **AWS Lambda:** Run code without provisioning or managing servers.
    - **Elastic Beanstalk:** An easy-to-use service for deploying and scaling web applications and services.
