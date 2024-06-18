@@ -17,28 +17,44 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 <h2>Core Services<h2>
 
 <h3>1.Compute:</h3>
+
    - **Amazon EC2 (Elastic Compute Cloud):** Virtual servers in the cloud.
+   - 
    - **AWS Lambda:** Run code without provisioning or managing servers.
+   - 
    - **Elastic Beanstalk:** An easy-to-use service for deploying and scaling web applications and services.
 
-**2. Storage:**
+<h3>2. Storage </h3>
+
    **- Amazon S3 (Simple Storage Service):** Scalable storage in the cloud.
+   
    **- Amazon EBS (Elastic Block Store:** Block storage for use with EC2.
+   
    **- Amazon Glacier:** Low-cost cloud storage service for data archiving and long-term backup.
 
-**3. Database:**
+<h3>3. Database:</h3>
+
    **- Amazon RDS (Relational Database Service):** Managed relational database service for databases like MySQL, PostgreSQL, and Oracle.
+   
    **- Amazon DynamoDB:** A fast and flexible NoSQL database service.
+   
    **- Amazon Redshift:** Data warehousing service for big data analytics.
 
-**4. Networking:**
-   **- Amazon VPC (Virtual Private Cloud):** Provision a logically isolated section of the AWS cloud.
-   **- Amazon CloudFront:** Content delivery network (CDN) service.
-   **- Elastic Load Balancing (ELB):** Distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.
+<h3>4. Networking:</h3>
 
-**5. Security, Identity, and Compliance**:
+   **- Amazon VPC (Virtual Private Cloud):** Provision a logically isolated section of the AWS cloud.
+   
+   **- Amazon CloudFront:** Content delivery network (CDN) service.
+   
+   **- Elastic Load Balancing (ELB):** Distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.
+   
+
+<h3>5. Security, Identity, and Compliance </h3>
+    
    **- AWS IAM (Identity and Access Management):** Manage access to AWS services and resources securely.
+   
    **- AWS KMS (Key Management Service):** Create and control the encryption keys used to encrypt your data.
+   
 
 
  **AWS CLI (Command Line Interface):** Manage AWS services using commands in your command-line shell.
