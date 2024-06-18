@@ -1,4 +1,4 @@
-<h1>Name Roles Briefly</h1>
+<h1>Roles Naming</h1>
 
 Creating clear and consistent naming conventions for roles is essential for effective management and understanding of their purposes. Here are guidelines to help you name roles effectively:
 
