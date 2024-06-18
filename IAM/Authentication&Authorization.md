@@ -4,7 +4,7 @@
 
 **Definition**: Authentication is the process of verifying the identity of a user, device, or entity attempting to access a system or resource. It ensures that the entity is who or what it claims to be.
 
-**How It Works**:
+<h3>How It Works</h3>
 1. **Credentials**: The user provides credentials, which could include:
    - **Something they know**: Passwords, PINs, or answers to security questions.
    - **Something they have**: Security tokens, smart cards, or mobile phones.
