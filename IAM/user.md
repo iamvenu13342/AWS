@@ -2,7 +2,7 @@
 
 Creating a consistent and intuitive naming convention for users is essential for managing access and ensuring clarity within your organization. Here are some guidelines for naming users effectively:
 
-<h2>1.Use Descriptive and Consistent Patterns<h2>
+<h2>1. Use Descriptive and Consistent Patterns<h2>
  
   -Format: Use a consistent format that includes relevant information about the user. Common formats include:
     
