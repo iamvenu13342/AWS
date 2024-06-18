@@ -88,6 +88,7 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 
 <h2>Cloud Computing</h2>
 - Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
 - Instead of owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
 
 <h3>Key Characteristics of Cloud Computing</h3>
@@ -100,6 +101,8 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 - Rapid Elasticity
    
 - Measured Service 
+
+
 
 <h3>Cloud Computing is Useful for DevOps Engineers</h3>
 Cloud computing offers numerous advantages that are particularly beneficial for DevOps engineers. Here are some key ways in which cloud computing supports DevOps practices:
@@ -152,7 +155,7 @@ Cloud computing offers numerous advantages that are particularly beneficial for 
 - By leveraging cloud platforms, DevOps teams can automate processes, enhance collaboration, improve application performance and reliability, and reduce costs.
 - This synergy between cloud computing and DevOps practices enables faster and more efficient development, deployment, and management of applications, ultimately leading to higher productivity and innovation.
 
-**Differences and Advantages of Private Cloud vs Public Cloud vs Hybrid Cloud**
+<h2>Differences and Advantages of Private Cloud vs Public Cloud vs Hybrid Cloud</h2>
 
 **1. Private Cloud**
  A *private cloud* is a cloud computing environment dedicated exclusively to a single organization. It can be hosted on-premises or by a third-party provider but is not shared with other organizations.
