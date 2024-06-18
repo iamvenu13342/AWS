@@ -4,7 +4,7 @@ Creating a consistent and intuitive naming convention for users is essential for
 
 <h2>1.Use Descriptive and Consistent Patterns<h2>
  
-  - **Format**: Use a consistent format that includes relevant information about the user. Common formats include:
+  -Format: Use a consistent format that includes relevant information about the user. Common formats include:
     
   - FirstnameLastname (e.g., JohnDoe)
     
