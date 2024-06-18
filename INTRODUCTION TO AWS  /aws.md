@@ -19,9 +19,9 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 <h3>1.Compute:</h3>
 
    - **Amazon EC2 (Elastic Compute Cloud):** Virtual servers in the cloud.
-   - 
+      
    - **AWS Lambda:** Run code without provisioning or managing servers.
-   - 
+     
    - **Elastic Beanstalk:** An easy-to-use service for deploying and scaling web applications and services.
 
 <h3>2. Storage </h3>
