@@ -4,13 +4,17 @@ Creating a consistent and intuitive naming convention for users is essential for
 
 <h2>1.Use Descriptive and Consistent Patterns<h2>
  
-   - **Format**: Use a consistent format that includes relevant information about the user. Common formats include:
-     
+  
+  - **Format**: Use a consistent format that includes relevant information about the user. Common formats include:
+
      - FirstnameLastname (e.g., JohnDoe)
-       
+
+
      - FirstInitialLastname (e.g., JDoe)
-       
+
+
      - Firstname.Lastname (e.g., John.Doe)
+
        
    - **Avoid Special Characters**: Stick to alphanumeric characters and possibly dots or hyphens to ensure compatibility across systems.
 
