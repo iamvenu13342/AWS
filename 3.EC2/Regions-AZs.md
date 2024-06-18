@@ -114,6 +114,7 @@
     
    - Utilize the global nature of AWS infrastructure to deploy applications closer to end users worldwide, improving performance and reliability.
      
+<h3>Summary</h3>
 
 - Understanding AWS regions and availability zones is crucial for **designing resilient**, **high-performing**, and **cost-effective applications**.
   
