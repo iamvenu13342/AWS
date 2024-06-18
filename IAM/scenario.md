@@ -77,7 +77,7 @@
 
 <h1>Scenario 2:Enforcing Multi-Factor Authentication (MFA)</h1>
 
-**Question: How can you enforce that all IAM users in your AWS account must use MFA to access the AWS Management Console?**
+<h3>Question: How can you enforce that all IAM users in your AWS account must use MFA to access the AWS Management Console?</h3>
 
 
 **Answer**:
@@ -115,7 +115,7 @@
 
 <h2>Scenario 3:Granting Temporary Access to AWS Resources</h2>
 
-**Question: You need to grant temporary access to a third-party vendor to access your S3 bucket for a limited time. How would you accomplish this?**
+<h3>Question: You need to grant temporary access to a third-party vendor to access your S3 bucket for a limited time. How would you accomplish this?</h3>
 
 
 **Answer**:
@@ -178,7 +178,7 @@
 
 <h2>Scenario 4: **Restricting Access to Specific IP Addresses**<h2>
 
-**Question: How can you restrict IAM users to access AWS resources only from specific IP addresses? **
+<h3>Question: How can you restrict IAM users to access AWS resources only from specific IP addresses?</h3>
 
 **Answer**:
 
@@ -215,7 +215,7 @@
 <h2>Scenario 5: Cross-Account Access to EC2 Instances</h2>
 
 
-**Question**: You need to allow an IAM user in Account A to start and stop EC2 instances in Account B. How would you set this up?
+<h3>Question: You need to allow an IAM user in Account A to start and stop EC2 instances in Account B. How would you set this up?</h3>
 
 
 **Answer**:
