@@ -58,7 +58,7 @@ Creating clear and consistent naming conventions for roles is essential for effe
      - WriteAccess
        
 
-<h2>6. **Document and Communicate the Naming Convention</h2>
+<h2>6. Document and Communicate the Naming Convention</h2>
 
    - Ensure the naming convention is well-documented and communicated across the organization to maintain consistency.
 
