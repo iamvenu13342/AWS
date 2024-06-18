@@ -114,36 +114,45 @@ Cloud computing offers numerous advantages that are particularly beneficial for 
 - This synergy between cloud computing and DevOps practices enables faster and more efficient development, deployment, and management of applications, ultimately leading to higher productivity and innovation.
 
 **Differences and Advantages of Private Cloud vs Public Cloud vs Hybrid Cloud**
+
 **1. Private Cloud**
-A *private cloud* is a cloud computing environment dedicated exclusively to a single organization. It can be hosted on-premises or by a third-party provider but is not shared with other organizations.
+ A *private cloud* is a cloud computing environment dedicated exclusively to a single organization. It can be hosted on-premises or by a third-party provider but is not shared with other organizations.
+
 **Advantages:**
 **- Control:** Organizations have complete control over their infrastructure, which can be customized to meet specific business needs.
 **- Security:** Higher levels of security and privacy as resources are not shared with others. This is especially important for organizations with stringent regulatory requirements.
 **- Performance:** Dedicated resources can provide higher performance and reliability.
+
 **Use Cases:**
 - Businesses with highly sensitive data (e.g., financial institutions, healthcare providers).
 - Organizations with stringent compliance requirements.
 - Companies needing high performance and dedicated infrastructure.
 
 **2. Public Cloud**
+
 A **public cloud** is a cloud computing model where services are delivered over the internet and shared among multiple organizations. Examples include AWS, Microsoft Azure, and Google Cloud Platform.
+
 **Advantages:**
 **- Cost-Effective:** Pay-as-you-go pricing eliminates the need for significant upfront capital expenditure.
 **- Scalability:** Easy to scale resources up or down based on demand.
 **- Accessibility:** Services are accessible from anywhere with an internet connection.
 **- Maintenance:** The cloud provider is responsible for maintaining the infrastructure, reducing the operational burden on the organization.
+
 **Use Cases:**
 - Startups and small businesses looking to minimize costs.
 - Companies needing to quickly scale their infrastructure.
 - Organizations running non-sensitive workloads or applications.
 
 **3. Hybrid Cloud**
+
 A **hybrid cloud** combines private and public cloud environments, allowing data and applications to be shared between them. This setup offers the flexibility to run workloads in the most appropriate environment.
+
 **Advantages:**
 **- Flexibility:** Organizations can choose the optimal environment for each workload. Sensitive data can be kept in the private cloud, while less sensitive workloads can run in the public cloud.
 **- Cost Optimization:** Balance between the cost efficiency of public clouds and the control of private clouds.
 **- Scalability:** Hybrid clouds can handle increased demand by leveraging public cloud resources while maintaining control over critical systems in the private cloud.
 **- Disaster Recovery and Backup:** Hybrid models can use public cloud resources for backup and disaster recovery, ensuring business continuity without the need for dedicated infrastructure.
+
 **Use Cases:**
 - Enterprises with existing on-premises infrastructure wanting to leverage cloud benefits.
 - Organizations requiring disaster recovery solutions.
