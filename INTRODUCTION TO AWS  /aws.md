@@ -87,6 +87,7 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 
 
 <h2>Cloud Computing</h2>
+
 - Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
 
 - Instead of owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
