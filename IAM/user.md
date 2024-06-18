@@ -93,7 +93,7 @@ Creating a consistent and intuitive naming convention for users is essential for
    - Temp-John.Smith
      
 
-<h3>Summary<h3>
+<h3>Summary</h3>
 
 - **Descriptive and Consistent**: Ensure usernames follow a consistent format.
   
