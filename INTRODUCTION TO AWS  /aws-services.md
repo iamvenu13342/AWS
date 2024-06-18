@@ -1,6 +1,6 @@
 <h1>AWS services used by DEVOPS ENGINEER</h1>
 
-DEVOPS ENGINEER Use AWS services to manage infrastructure, deploy applications, ensure security, monitor systems, and automate workflows. Here are 30 AWS services commonly used by DevOps engineers:
+DEVOPS ENGINEER Use AWS services to manage **infrastructure**, **deploy applications**, **ensure security**, **monitor systems**, and **automate workflows**. Here are 30 AWS services commonly used by DevOps engineers:
 
 <h2>1. AWS IAM (Identity and Access Management):</h2>
   
