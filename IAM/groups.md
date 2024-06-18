@@ -1,4 +1,4 @@
-<h1>Name Groups Briefly</h1>
+<h1>Groups Naming</h1>
 
 Creating a clear and consistent naming convention for groups is crucial for efficient management and organization within your system. Here are some guidelines to help you name groups effectively:
 
