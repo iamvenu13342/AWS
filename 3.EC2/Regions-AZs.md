@@ -115,5 +115,6 @@
    - Utilize the global nature of AWS infrastructure to deploy applications closer to end users worldwide, improving performance and reliability.
      
 
-Understanding AWS regions and availability zones is crucial for designing resilient, high-performing, and cost-effective applications.
-By leveraging the isolation and redundancy features of AZs and regions, you can build robust architectures that withstand failures and provide continuous service to your users.
+- Understanding AWS regions and availability zones is crucial for **designing resilient**, **high-performing**, and **cost-effective applications**.
+  
+- By leveraging the **isolation and redundancy** features of AZs and regions, you can build **robust architectures that withstand failures** and provide continuous service to your users.
