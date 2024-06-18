@@ -1,6 +1,6 @@
 <h1>Authentication and Authorization</h1>
 
-#### Authentication
+<h2>Authentication</h2>
 
 **Definition**: Authentication is the process of verifying the identity of a user, device, or entity attempting to access a system or resource. It ensures that the entity is who or what it claims to be.
 
@@ -17,7 +17,7 @@
 - Using a fingerprint scanner to unlock a smartphone.
 - Entering a one-time passcode sent to a mobile device.
 
-#### Authorization
+<h2>Authorization</h2>
 
 **Definition**: Authorization is the process of determining whether an authenticated user has permission to access a specific resource or perform a particular action. It defines what an authenticated user is allowed to do.
 
