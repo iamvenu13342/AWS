@@ -6,7 +6,7 @@
 <h2>Scenario 1:Accessing S3 Buckets from Different Accounts</h2>
 
 
-<h3>Question: You have two AWS accounts: Account A and Account B. You need to allow an IAM user in Account A to access an S3 bucket in Account B. How would you set this up?<h3>
+<h3>Question: You have two AWS accounts: Account A and Account B. You need to allow an IAM user in Account A to access an S3 bucket in Account B. How would you set this up?</h3>
 
 
 **Answer**:
