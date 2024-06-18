@@ -1,4 +1,4 @@
- <h1>Name Users Briefly</h1>
+ <h1>Users Naming</h1>
 
 Creating a consistent and intuitive naming convention for users is essential for managing access and ensuring clarity within your organization. Here are some guidelines for naming users effectively:
 
