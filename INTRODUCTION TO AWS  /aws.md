@@ -1,4 +1,4 @@
-##**Introduction to AWS (Amazon Web Services)**##
+**Introduction to AWS (Amazon Web Services)**
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally. 
 
 **Key Concepts of AWS**
@@ -43,7 +43,6 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 
  **AWS SDKs:** Access AWS services from your code.
 
-AWS provides a wide range of cloud services and tools to help businesses and developers manage their infrastructure efficiently and cost-effectively. With its robust global infrastructure, high scalability, security, and flexibility, AWS continues to be a leader in the cloud computing space. Whether you're just getting started with cloud computing or looking to scale your existing applications, AWS offers the tools and services you need to succeed.
 
 **Why Choose AWS?**
 1. Comprehensive and Mature Platform
@@ -58,10 +57,9 @@ AWS provides a wide range of cloud services and tools to help businesses and dev
 10. Enterprise and Government Adoption
 
 
-
 **What is Cloud Computing?**
-	Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. 
-	Instead of owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
+- Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+- Instead of owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
 
 **Key Characteristics of Cloud Computing**
 1. On-Demand Self-Service
