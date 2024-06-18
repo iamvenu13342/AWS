@@ -56,13 +56,13 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
    **- AWS KMS (Key Management Service):** Create and control the encryption keys used to encrypt your data.
    
 
+<h3> AWS CLI (Command Line Interface):</h3> Manage AWS services using commands in your command-line shell.
 
- **AWS CLI (Command Line Interface):** Manage AWS services using commands in your command-line shell.
-
- **AWS SDKs:** Access AWS services from your code.
+ <h3>AWS SDKs:</h3> Access AWS services from your code.
 
 
-**Why Choose AWS?**
+
+<h2>Why Choose AWS?</h2>
 1. Comprehensive and Mature Platform
 2. Broad and Deep Service Offering
 3. Global Reach and Availability
@@ -75,21 +75,21 @@ Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, 
 10. Enterprise and Government Adoption
 
 
-**What is Cloud Computing?**
+<h2>Cloud Computing</h2>
 - Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
 - Instead of owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
 
-**Key Characteristics of Cloud Computing**
+<h3>Key Characteristics of Cloud Computing</h3>
 1. On-Demand Self-Service
 2. Broad Network Access 
 3. Resource Pooling
 4. Rapid Elasticity
 5. Measured Service 
 
-**How Cloud Computing is Useful for DevOps Engineers**
+<h3>Cloud Computing is Useful for DevOps Engineers</h3>
 Cloud computing offers numerous advantages that are particularly beneficial for DevOps engineers. Here are some key ways in which cloud computing supports DevOps practices:
 
-**1. Infrastructure as Code (IaC):**
+<h3>1. Infrastructure as Code (IaC):</h3>
 **- Automation**: Cloud platforms provide tools that allow DevOps engineers to automate the provisioning and management of infrastructure. IaC enables version control for infrastructure, just like application code, which facilitates automated testing and continuous integration/continuous deployment (CI/CD).
 
 **- Consistency:** IaC ensures that the development, testing, and production environments are consistent, reducing configuration drift and ensuring that the environments are reproducible.
