@@ -4,13 +4,13 @@
 An Internet Gateway (IGW) is a critical component in Amazon Virtual Private Cloud (VPC) that allows communication between instances in your VPC and the internet. Here are the key features and functions of an Internet Gateway:
 
 
-1. **Scalability and High Availability**
+**1. Scalability and High Availability**
 
 
 - **Elastic and Redundant**: The Internet Gateway is horizontally scaled, redundant, and highly available. It does not introduce a single point of failure or bandwidth constraints.
 
 
-2. **Bidirectional Traffic**
+**2. Bidirectional Traffic**
 
 
 - **Inbound and Outbound Traffic**: An IGW supports both inbound and outbound traffic. Instances in a subnet routed to an IGW can send and receive traffic from the internet.
