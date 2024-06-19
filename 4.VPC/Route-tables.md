@@ -71,7 +71,7 @@ Route tables in Amazon Virtual Private Cloud (VPC) are fundamental components th
 
 
 
-**1. Organize Subnets with Different Route Tables**:
+1. **Organize Subnets with Different Route Tables**:
  
    - Use different route tables for public and private subnets to control internet access and ensure proper traffic routing.
 
