@@ -8,15 +8,15 @@ Amazon Virtual Private Cloud (VPC) allows you to provision a logically isolated 
 <h2>Key Features of VPC</h2>
 
 
-1. **Logical Isolation**: Each VPC is isolated from other VPCs, providing a secure and dedicated network environment.
+1. **Logical Isolation**: Each VPC is **isolated** from other VPCs, providing a secure and dedicated network environment.
    
 2. **Customizable Network Configuration**: You can configure your VPC to your requirements, including defining IP address ranges, creating subnets, and configuring route tables.
    
-3. **Security**: VPC provides advanced security features such as security groups and network access control lists (ACLs) to control inbound and outbound traffic at the instance and subnet levels.
+3. **Security**: VPC provides advanced security features such as **security groups and network access control lists (ACLs)** to control inbound and outbound traffic at the instance and subnet levels.
    
-4. **Flexibility**: You can create multiple subnets, both public and private, within a VPC. Public subnets are accessible from the internet, while private subnets are not.
+4. **Flexibility**: You can create **multiple subnets**, both public and private, within a VPC. Public subnets are accessible from the internet, while private subnets are not.
    
-5. **Connectivity Options**: VPC supports multiple connectivity options including internet gateways, Virtual Private Network (VPN) connections, AWS Direct Connect, and VPC peering.
+5. **Connectivity Options**: VPC supports **multiple connectivity** options including internet gateways, Virtual Private Network (VPN) connections, AWS Direct Connect, and VPC peering.
 
     
 <h2> Key Components of a VPC</h2>
