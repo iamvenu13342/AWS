@@ -64,9 +64,7 @@ The **root user** is the primary account holder for an AWS account. This user ha
 
 
 | **Aspect**                | **Root User**                                        | **IAM User**                                                  |
-
 |---------------------------|------------------------------------------------------|---------------------------------------------------------------|
-
 | **Access Level**          | Full administrative access to all AWS resources      | Customizable permissions; can range from full access to limited specific access |
 | **Creation**              | Created by default when AWS account is created       | Created by the root user or an IAM user with the necessary permissions |
 | **Use Cases**             | Initial account setup, account and billing management, critical tasks | Daily operational tasks, managing resources, accessing services |
