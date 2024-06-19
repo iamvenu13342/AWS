@@ -72,7 +72,7 @@ Network Address Translation (NAT) Gateway and NAT Instance are AWS services that
 7. **Performance**
    - **Variable Bandwidth**: The bandwidth is determined by the instance type selected. High-performance NAT Instances require more powerful and expensive instance types.
 
-#### Key Differences
+ <h2>Key Differences Between NAT Gateway and NAT INSTANCE</h2>
 
 1. **Management**:
    - **NAT Gateway**: Fully managed by AWS, less operational overhead.
@@ -94,7 +94,7 @@ Network Address Translation (NAT) Gateway and NAT Instance are AWS services that
    - **NAT Gateway**: Pay-as-you-go, potentially higher cost due to managed service.
    - **NAT Instance**: EC2 pricing model, potentially lower cost but with more management overhead.
 
-#### Best Practices
+<h2>Best Practices </h2>
 
 1. **Use NAT Gateway for Simplicity**:
    - Opt for NAT Gateway if you prefer a fully managed solution with high availability and automatic scaling.
