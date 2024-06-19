@@ -14,61 +14,61 @@ Amazon Virtual Private Cloud (VPC) allows you to provision a logically isolated 
    - You can create multiple VPCs within a single AWS account, and each VPC is isolated from other VPCs.
      
 
-3. **Subnets**:
+2. **Subnets**:
    
    - Subdivisions within a VPC to group instances based on security and operational needs.
      
    - Subnets can be either public (with direct access to the internet) or private (no direct internet access).
      
 
-5. **Route Tables**:
+3. **Route Tables**:
    
    - Used to determine where network traffic is directed.
      
    - Each subnet must be associated with a route table, which contains a set of rules (routes) that determine where traffic should be directed.
      
 
-7. **Internet Gateway (IGW)**:
+4. **Internet Gateway (IGW)**:
    
    - A horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet.
      
    - Attach an IGW to a VPC to allow public traffic.
      
 
-9. **NAT Gateway / NAT Instance**:
+5. **NAT Gateway / NAT Instance**:
     
    - Used to allow instances in a private subnet to connect to the internet or other AWS services but prevent the internet from initiating connections with those instances.
      
    - NAT Gateway is the preferred option for high availability and scalability.
      
 
-11. **Security Groups**:
+6. **Security Groups**:
     
    - Virtual firewalls that control inbound and outbound traffic to instances.
      
    - You can specify allowed protocols, ports, and source/destination IP ranges.
      
 
-11. **Network ACLs (Access Control Lists)**:
+7. **Network ACLs (Access Control Lists)**:
     
    - An optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets.
      
    - Network ACLs provide a rule-based tool for controlling traffic at the subnet level.
      
 
-11. **VPC Peering**:
+8. **VPC Peering**:
     
    - Enables you to connect one VPC with another via a direct network route using private IP addresses.
      
    - Instances in either VPC can communicate with each other as if they are within the same network.
      
 
-11. **Endpoints**:
+9. **Endpoints**:
     
    - Enable private connectivity to AWS services from within a VPC without using an internet gateway, NAT device, VPN, or AWS Direct Connect connection.
      
 
-11. **VPN and AWS Direct Connect**:
+10. **VPN and AWS Direct Connect**:
     
     - VPN: Provides a secure connection between your on-premises network and your VPC.
       
