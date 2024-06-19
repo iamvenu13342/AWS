@@ -1,6 +1,7 @@
  <h1>Scenario-Based EC2 Questions and Answers</h1>
 
 
+
 <h2>Scenario 1: High Availability and Fault Tolerance</h2>
 
 **Question: You have a critical web application that needs to be highly available and fault-tolerant.**
@@ -31,7 +32,8 @@ How would you set up your EC2 instances to ensure these requirements are met?
    - Use Amazon RDS with Multi-AZ deployment for the database layer to ensure high availability and automatic failover.
      
 
-Scenario 2: Cost Optimization
+
+<h2>Scenario 2: Cost Optimization</h2>
 
 **Question: Your company is experiencing high EC2 costs due to unpredictable traffic patterns. How would you optimize costs while maintaining performance?**
 
@@ -58,6 +60,7 @@ Scenario 2: Cost Optimization
     
    - Implement an instance scheduler to automatically stop non-essential instances during off-peak hours.
      
+
 
 <h2>Scenario 3: Performance Issues</h2>
 
@@ -86,6 +89,7 @@ Scenario 2: Cost Optimization
     
    - Verify that the ELB is properly distributing traffic and that all instances are registered and healthy.
      
+
 
 <h2>Scenario 4: Security Compliance</h2>
 
@@ -118,6 +122,7 @@ Scenario 2: Cost Optimization
     
    - Enable detailed logging using CloudWatch Logs, AWS CloudTrail, and VPC Flow Logs. Set up alerts for suspicious activity.
      
+
 
 <h2>Scenario 5: Instance Connectivity Issues</h2>
 
@@ -154,6 +159,7 @@ Scenario 2: Cost Optimization
     
    - Use the EC2 console to access instance console output and logs for error messages.
      
+
 
 <h2>Scenario 6: Data Backup and Recovery</h2>
 
