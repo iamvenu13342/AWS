@@ -9,25 +9,28 @@ It integrates seamlessly with other AWS services and offers DNS health checks, d
 <h2>Key Features</h2>
 
 1. **DNS Management:**
-   - **Hosted Zones:** Containers for DNS records of a specific domain.
-   - **Record Types:** A, AAAA, CNAME, MX, PTR, SOA, SPF, SRV, TXT.
-   - **Routing Policies:** Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multivalue answer.
 
-2. **Domain Registration:**
+    - **Hosted Zones:** Containers for DNS records of a specific domain.
+
+   - **Record Types:** A, AAAA, CNAME, MX, PTR, SOA, SPF, SRV, TXT.
+
+    - **Routing Policies:** Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multivalue answer.
+
+3. **Domain Registration:**
    - Register new domain names.
    - Manage existing domains, renewals, and transfers.
 
-3. **DNS Health Checks and Monitoring:**
+4. **DNS Health Checks and Monitoring:**
    - Ensure application availability.
    - Route traffic based on health check results.
    - Integrated with CloudWatch for monitoring and alarms.
 
-4. **Traffic Flow:**
+5. **Traffic Flow:**
    - Create and manage traffic policies.
    - Visual editor for traffic policies.
    - Versioning and audit trails for traffic policies.
 
-5. **Integration with AWS Services:**
+6. **Integration with AWS Services:**
    - Seamlessly integrates with ELB, S3, CloudFront, and more.
    - Automatic updates of DNS records for resources.
 
