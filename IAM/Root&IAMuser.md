@@ -11,7 +11,7 @@ The **root user** is the primary account holder for an AWS account. This user ha
    - The root user has unrestricted access to all resources and services in the AWS account.
      
    
-3. **Sensitive Actions**:
+2. **Sensitive Actions**:
    
    - Only the root user can perform certain sensitive actions, such as:
      
@@ -24,7 +24,7 @@ The **root user** is the primary account holder for an AWS account. This user ha
      - Managing AWS Support plans.
        
    
-5. **Security Best Practices**:
+3. **Security Best Practices**:
    
    - It is highly recommended to use the root user only for initial setup and rare account and service management tasks.
      
@@ -33,7 +33,7 @@ The **root user** is the primary account holder for an AWS account. This user ha
    - Create individual IAM users with specific permissions for regular operational tasks.
      
 
-#### IAM User
+<h2>IAM User</h2>
 
 
 **IAM (Identity and Access Management) users** are individual users created within an AWS account. Each IAM user has a unique set of credentials and permissions that control access to AWS resources and services. IAM users allow you to securely control access to AWS services and resources without using the root account.
@@ -46,12 +46,12 @@ The **root user** is the primary account holder for an AWS account. This user ha
    - IAM users can be granted fine-grained permissions using IAM policies. You can grant each user only the permissions they need to perform their job functions.
      
    
-3. **Individual Credentials**:
+2. **Individual Credentials**:
    
    - Each IAM user has their own credentials (username, password, access keys) and can be managed separately from other users.
      
    
-5. **Security Best Practices**:
+3. **Security Best Practices**:
    
    - Use IAM users for daily operations instead of the root user.
      
@@ -60,7 +60,8 @@ The **root user** is the primary account holder for an AWS account. This user ha
    - Enable MFA for IAM users with privileged access.
      
 
-#### Differences Between Root User and IAM User
+<h2>Differences Between Root User and IAM User</h2>
+
 
 
 | **Aspect**                | **Root User**                                        | **IAM User**                                                  |
@@ -72,24 +73,37 @@ The **root user** is the primary account holder for an AWS account. This user ha
 | **Security Best Practices** | Use sparingly, enable MFA, secure credentials       | Use for regular tasks, grant least privilege, enable MFA where necessary |
 | **Sensitive Actions**     | Can perform account-level sensitive actions          | Typically cannot perform account-level sensitive actions unless explicitly allowed |
 
-#### Best Practices for Managing AWS Users
+<h2>Best Practices for Managing AWS Users</h2>
+
 
 1. **Limit Root User Access**:
+   
    - Use the root user only when absolutely necessary. Avoid using the root user for everyday tasks.
+     
 
 2. **Enable MFA**:
+   
    - Enable Multi-Factor Authentication (MFA) for both the root user and IAM users with elevated permissions to enhance security.
+     
 
 3. **Create Individual IAM Users**:
+   
    - Create individual IAM users for each person who needs access to AWS resources. Avoid sharing accounts and credentials.
+     
 
 4. **Use IAM Groups and Roles**:
+   
    - Use IAM groups to manage permissions for multiple users efficiently. Assign roles to provide temporary access to AWS resources.
+     
 
 5. **Follow the Principle of Least Privilege**:
+    
    - Grant each IAM user and role the minimum permissions they need to perform their tasks.
+     
 
 6. **Regularly Review and Audit Permissions**:
+    
    - Regularly review IAM policies and permissions to ensure they are up-to-date and adhere to security best practices. Use AWS CloudTrail to audit account activity.
+     
 
 By understanding the differences between the root user and IAM users and following best practices, you can enhance the security and manageability of your AWS environment.
