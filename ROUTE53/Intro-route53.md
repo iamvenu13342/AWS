@@ -9,11 +9,8 @@ It integrates seamlessly with other AWS services and offers DNS health checks, d
 <h2>Key Features</h2>
 
 1. **DNS Management:**
-
     - **Hosted Zones:** Containers for DNS records of a specific domain.
-
-   - **Record Types:** A, AAAA, CNAME, MX, PTR, SOA, SPF, SRV, TXT.
-
+    - **Record Types:** A, AAAA, CNAME, MX, PTR, SOA, SPF, SRV, TXT.
     - **Routing Policies:** Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multivalue answer.
 
 3. **Domain Registration:**
